@@ -12,5 +12,5 @@ Habilidades: HTML / CSS / JS / SASS / MATERIALIZE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JSamuelAP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jsamuelap/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JSamuelAP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/JSamuelAP)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSamuelAP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSamuelAP&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
