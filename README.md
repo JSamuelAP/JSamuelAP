@@ -1,12 +1,13 @@
 ### José Samuel 🤙
-#### Desarrollador frontend y estudiante de sistemas
-Soy un joven mexicano 🌮 apasionado por la programación, tengo un año que comencé con el maravilloso mundo de la web y ya tengo claro que a esto me quiero dedicar.
-Actualmente estudio el segundo semestre de la carrera de Ingeniería en Sistemas Computacionales 💻📚 en el Tecnológico Nacional de México en León 🦁.
+#### Desarrollador Frontend y estudiante de Ingeniería en Sistemas
+Soy un joven mexicano 🌮 apasionado por la programación, tengo dos que comencé con el maravilloso mundo de la web y ya tengo claro que a esto me quiero dedicar.
+Actualmente estudio el quinto semestre de la carrera de Ingeniería en Sistemas Computacionales 💻📚 en el Tecnológico Nacional de México en León 🦁.
 
-Habilidades: HTML / CSS / JS / SASS / MATERIALIZE
+Habilidades: HTML / CSS / JS / SASS / MATERIALIZE / BOOTSTRAP / SQL
 
-- 🔭 Estoy trabajando en Mi portafolio 
-- 🌱 Estoy aprendiendo JavaScript, y proximamente ReactJS 
+- 🔭 Estoy trabajando en JavaScript y Java
+- 🌱 Estoy aprendiendo React y próximamente Node
+- 💼 Puedes ver mis proyectos en mi [portafolio](https://jsamuelap.github.io)
 - 📫 Cómo contactarme: sp4619168@gmail.com 
 
 
