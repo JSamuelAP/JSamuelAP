@@ -40,7 +40,7 @@
       target="_blanck"
     />
   </a>
-  <a href="" target="_blank">
+  <a href="https://codepen.io/JSamuelAP" target="_blank">
     <img
       src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white"
       target="_blanck"
@@ -50,13 +50,13 @@
 
 ## 🙋 Sobre mí
 
-Soy un joven mexicano 🌮 apasionado por la programación, tengo dos que comencé con el maravilloso mundo de la web y ya tengo claro que a esto me quiero dedicar.
+Soy un joven mexicano 🌮 apasionado por la programación, buscando mis primeras experiencias laborales en el mundo de la tecnología.
 
-Actualmente estudio el quinto semestre de la carrera de Ingeniería en Sistemas Computacionales 💻📚 en el Tecnológico Nacional de México en León 🦁.
+Actualmente estudio el sexto semestre de la carrera de Ingeniería en Sistemas Computacionales 💻📚 en el Tecnológico Nacional de México en León 🦁.
 
 - 🔭 Estoy trabajando en **Mi perfil profesional**
 - 🌱 Estoy aprendiendo **React, Testing y Nodejs**
-- 👨‍💻 Puedes ver mis proyectos en mi [**portafolio**](https://jsamuelap.github.io)
+- 💼 Puedes ver mis proyectos en mi [**portafolio**](https://jsamuelap.github.io)
 - 📫 Cómo contactarme **sp4619168@gmail.com**
 
 ## 🧰 Tecnologías
