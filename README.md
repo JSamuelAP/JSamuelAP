@@ -8,7 +8,45 @@
   </picture>
 </h1>
 
-<h3 align="center">Desarrollador Frontend y estudiante de Ingeniería en Sistemas 🧑‍💻</h3>
+<div align="center">
+  <h3 >Desarrollador Frontend y estudiante de Ingeniería en Sistemas 🧑‍💻</h3>
+  <a href="https://jsamuelap.github.io" target="_blank">
+    <img
+      src="https://img.shields.io/badge/portafolio-009d71?style=for-the-badge&logo=githubpages&logoColor=white"
+      target="_blanck"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/jsamuelap" target="_blank">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blanck"
+    />
+  </a>
+  <a href="https://twitter.com/JSamuelAP" target="_blank">
+    <img
+      src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"
+      target="_blanck"
+    />
+  </a>
+  <a href="mailto:sp4619168@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white"
+      target="_blanck"
+    />
+  </a>
+  <a href="https://www.frontendmentor.io/profile/JSamuelAP" target="_blank">
+    <img
+      src="https://img.shields.io/badge/frontend mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=67bece"
+      target="_blanck"
+    />
+  </a>
+  <a href="" target="_blank">
+    <img
+      src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white"
+      target="_blanck"
+    />
+  </a>
+</div>
 
 ## 🙋 Sobre mí
 
