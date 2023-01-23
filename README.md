@@ -61,27 +61,28 @@ Actualmente estudio el sexto semestre de la carrera de Ingeniería en Sistemas C
 
 ## 🧰 Tecnologías
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/react-router.svg" alt="react router" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/npm.svg" alt="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/vim.svg" alt="vim" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/notion-icon.svg" alt="notion" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/markdown.svg" alt="markdown" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/json.svg" alt="json" width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/html-5.svg"                          alt="html5"        width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/css-3.svg"                           alt="css3"         width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/javascript.svg"                      alt="javascript"   width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/react.svg"                           alt="react"        width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/react-router.svg"                    alt="react router" width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/sass.svg"                            alt="sass"         width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/bootstrap.svg"                       alt="bootstrap"    width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"                alt="tailwind"     width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/materializecss.svg"                  alt="materialize"  width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/figma.svg"                           alt="figma"        width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/git-icon.svg"                        alt="git"          width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/npm.svg"                             alt="npm"          width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/vitejs.svg"                          alt="vite"         width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg"              alt="vscode"       width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/vim.svg"                             alt="vim"          width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"        width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/mysql.svg"                           alt="mysql"        width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/linux-tux.svg"                       alt="linux"        width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/bash-icon.svg"                       alt="bash"         width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/notion-icon.svg"                     alt="notion"       width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/markdown.svg"                        alt="markdown"     width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/json.svg"                            alt="json"         width="40" height="40"/>&nbsp;
 
 ## 📊 Github stats
 
