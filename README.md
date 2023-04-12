@@ -103,11 +103,11 @@ Actualmente estudio el sexto semestre de la carrera de Ingeniería en Sistemas C
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsamuelap&layout=compact&hide_border=true&theme=tokyonight"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsamuelap&langs_count=6&layout=compact&hide_border=true&theme=tokyonight"
         media="(prefers-color-scheme: dark)"
       />
       <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsamuelap&layout=compact&hide_border=true&theme=vue"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsamuelap&langs_count=6&layout=compact&hide_border=true&theme=vue"
          alt="JSamuel's Top Langs"
          height="180px"
        />
