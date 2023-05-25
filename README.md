@@ -64,6 +64,7 @@ Actualmente estudio el sexto semestre de la carrera de Ingeniería en Sistemas C
 <img src="https://cdn.svgporn.com/logos/html-5.svg"                          alt="html5"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/css-3.svg"                           alt="css3"         width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/javascript.svg"                      alt="javascript"   width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg"                     alt="nodejs"       width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/react.svg"                           alt="react"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/react-router.svg"                    alt="react router" width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/sass.svg"                            alt="sass"         width="40" height="40"/>&nbsp;
