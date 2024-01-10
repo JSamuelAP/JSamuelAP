@@ -52,7 +52,7 @@
 
 Soy un joven mexicano 🌮 apasionado por la programación, buscando mis primeras experiencias laborales en el mundo de la tecnología.
 
-Actualmente estudio el sexto semestre de la carrera de Ingeniería en Sistemas Computacionales 💻📚 en el Tecnológico Nacional de México en León 🦁.
+Actualmente estudio el octavo semestre de la carrera de Ingeniería en Sistemas Computacionales 💻📚 en el Tecnológico Nacional de México en León 🦁.
 
 - 🔭 Estoy trabajando en **Mi perfil profesional**
 - 🌱 Estoy aprendiendo **React, Testing y Nodejs**
