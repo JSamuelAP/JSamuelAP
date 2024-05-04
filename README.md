@@ -74,16 +74,10 @@ Actualmente estudio el octavo semestre de la carrera de Ingeniería en Sistemas 
 <img src="https://cdn.svgporn.com/logos/figma.svg"                           alt="figma"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/git-icon.svg"                        alt="git"          width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/npm.svg"                             alt="npm"          width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/vitejs.svg"                          alt="vite"         width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg"              alt="vscode"       width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/vim.svg"                             alt="vim"          width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/mysql.svg"                           alt="mysql"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/linux-tux.svg"                       alt="linux"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/bash-icon.svg"                       alt="bash"         width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/notion-icon.svg"                     alt="notion"       width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/markdown.svg"                        alt="markdown"     width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/json.svg"                            alt="json"         width="40" height="40"/>&nbsp;
 
 ## 📊 Github stats
 
