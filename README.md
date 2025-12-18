@@ -59,6 +59,7 @@ Interesado en testing 🧪, arquitecturas limpias 🏗️ y automatización CI/C
 - 🔭 Estoy trabajando en **Mi perfil profesional**
 - 🌱 Estoy aprendiendo **Astro y patrones de diseño**
 - 💼 Puedes ver mis proyectos en mi [**portafolio**](https://jsamuelap.github.io)
+- 🏫 Algunos [proyectos escolares](https://github.com/JoseSamuelAldanaPerez)
 - 📫 Cómo contactarme **sp4619168@gmail.com**
 
 ## 🧰 Tecnologías
