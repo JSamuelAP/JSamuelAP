@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <h3 >Desarrollador Frontend y estudiante de Ingeniería en Sistemas 🧑‍💻</h3>
+  <h3>Desarrollador Backend e Ingeniería en Sistemas Computacionales 🧑‍💻</h3>
   <a href="https://jsamuelap.github.io" target="_blank">
     <img
       src="https://img.shields.io/badge/portafolio-009d71?style=for-the-badge&logo=githubpages&logoColor=white"
@@ -50,34 +50,31 @@
 
 ## 🙋 Sobre mí
 
-Soy un joven mexicano 🌮 apasionado por la programación, buscando mis primeras experiencias laborales en el mundo de la tecnología.
+Mi nombre es **José Samuel Aldana Pérez**, soy ingeniero en sistemas computacionales 🧑‍💻 con año y medio de experiencia en desarrollo web, con enfoque en backend.
 
-Actualmente estudio el octavo semestre de la carrera de Ingeniería en Sistemas Computacionales 💻📚 en el Tecnológico Nacional de México en León 🦁.
+Caracterizado en la creación de soluciones mantenibles mediante buenas prácticas de código 🧹 y principios de diseño.
+
+Interesado en testing 🧪, arquitecturas limpias 🏗️ y automatización CI/CD 🤖, con el objetivo de crecer hacia un rol de arquitecto de software 👷.
 
 - 🔭 Estoy trabajando en **Mi perfil profesional**
-- 🌱 Estoy aprendiendo **React, Testing y Nodejs**
+- 🌱 Estoy aprendiendo **Astro y patrones de diseño**
 - 💼 Puedes ver mis proyectos en mi [**portafolio**](https://jsamuelap.github.io)
 - 📫 Cómo contactarme **sp4619168@gmail.com**
 
 ## 🧰 Tecnologías
 
-<img src="https://cdn.svgporn.com/logos/html-5.svg"                          alt="html5"        width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/css-3.svg"                           alt="css3"         width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/javascript.svg"                      alt="javascript"   width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/java.svg"                            alt="java"         width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/spring-icon.svg"                     alt="sprinb boot"  width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg"                 alt="typescript"   width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg"                     alt="nodejs"       width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/react.svg"                           alt="react"        width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/react-router.svg"                    alt="react router" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/sass.svg"                            alt="sass"         width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg"                       alt="bootstrap"    width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/express.svg"                         alt="expressjs"    width="40" height="40"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/angular-icon.svg"                    alt="angular"      width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"                alt="tailwind"     width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/materializecss.svg"                  alt="materialize"  width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/figma.svg"                           alt="figma"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/git-icon.svg"                        alt="git"          width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/npm.svg"                             alt="npm"          width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/mysql.svg"                           alt="mysql"        width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/linux-tux.svg"                       alt="linux"        width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/bash-icon.svg"                       alt="bash"         width="40" height="40"/>&nbsp;
 
 ## 📊 Github stats
 
